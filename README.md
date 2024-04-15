@@ -1,7 +1,7 @@
 # Automate-Email-Damen
 *Automate Email Global System* <br> <br>
 To automate global email sending with a consistent email body, it is essential to obtain a verification code (16-digit) for the email sender. 
-![alt text](https://github.com/ranabel/automate-damen-email-global/blob/with-image/Image.png?raw=true)
+![alt text](https://github.com/ranabel/automate-damen-email-global/blob/main/Image.png?raw=true)
 
 # Introduction
 This automated system is designed to send emails globally with a standardized email body. In order to activate the sender's email address, a 16-digit verification code is required.
